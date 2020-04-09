@@ -7,6 +7,8 @@ BikeShare
 ### Description
 This project analyzes bike share data from Chicago, New York City, and Washington.
 
+This project was part of the Nano Science degree program and focued on using Python to manipulate and analyze data.
+
 ### Files used
 some CSV files:
 - chicago.csv
