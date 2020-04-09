@@ -5,7 +5,7 @@ Nov 10, 2019
 BikeShare
 
 ### Description
-This project analyzes bike share data.
+This project analyzes bike share data from Chicago, New York City, and Washington.
 
 ### Files used
 some CSV files:
