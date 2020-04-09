@@ -1,8 +1,8 @@
 import time
 import pandas as pd
-import numpy as np
+#import numpy as np
 
-DEBUG = False
+#DEBUG = False
 
 CITY_DATA = {'chicago': 'chicago.csv',
              'new york city': 'new_york_city.csv',
@@ -293,12 +293,12 @@ def main():
 
         df = load_data(city, month, day)
 
-        if DEBUG:
-            print(city, month, day)
-            print(df.info())
-            print(df.describe())
-            print(df.shape)
-            print(df.head())
+#        if DEBUG:
+#            print(city, month, day)
+#            print(df.info())
+#            print(df.describe())
+#            print(df.shape)
+#            print(df.head())
 
         time_stats(df)
         station_stats(df)
