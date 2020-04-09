@@ -8,7 +8,10 @@ BikeShare
 This project analyzes bike share data.
 
 ### Files used
-some CSV files
+some CSV files:
+- chicago.csv
+- new_york_city.csv
+- washington.csv
 
 ### Credits
 cycling.com
